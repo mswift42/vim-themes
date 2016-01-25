@@ -31,7 +31,7 @@ munich:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/munich-nvim.png)
 
 light-kiss:
-![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/light-kiss.png)
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/light-kiss-nvim.png)
 
 soft-morning:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/soft-morning-nvim.png)
