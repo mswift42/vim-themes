@@ -1,6 +1,15 @@
 # vim-themes
 Port of my favourite emacs themes to vim.
 
+All Themes were ported to vim with [ThemeCreator](https://github.com/mswift42/themecreator)
+
+* * *
+
+### Installation:
+clone this repo and copy all or just the theme you like to your vim colors folder.
+
+* * *
+
 ### Screenshots:
 
 white-sand:
@@ -36,7 +45,7 @@ light-kiss:
 soft-morning:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/soft-morning-nvim.png)
 
-
+* * *
 
 ### License
 All themes are, if not otherwise stated inside the theme file, licensed under [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
