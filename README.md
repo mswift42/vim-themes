@@ -45,6 +45,12 @@ light-kiss:
 soft-morning:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/soft-morning-nvim.png)
 
+soft-stone:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/soft-stone-nvim.png)
+
+sunny-day:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/sunny-day-nvim.png)
+
 * * *
 
 ### License
