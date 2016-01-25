@@ -51,6 +51,9 @@ soft-stone:
 sunny-day:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/sunny-day-nvim.png)
 
+darktooth:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/darktooth-nvim.png)
+
 * * *
 
 ### License
