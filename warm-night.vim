@@ -1,6 +1,6 @@
 " Vim color file
 " warm-night
-" Created by  with ThemeCreator (https://github.com/mswift42/themecreator)
+" Created by  Martin Haesler with ThemeCreator (https://github.com/mswift42/themecreator)
 
 hi clear
 
