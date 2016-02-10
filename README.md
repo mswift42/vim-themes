@@ -54,6 +54,9 @@ sunny-day:
 darktooth:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/darktooth-nvim.png)
 
+foggy-night:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/vimfoggy-nightpythonruby.png)
+
 * * *
 
 ### License
