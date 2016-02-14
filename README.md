@@ -57,6 +57,9 @@ darktooth:
 foggy-night:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/vimfoggy-nightpythonruby.png)
 
+silkworm:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/silkworm-nvim.png)
+
 * * *
 
 ### License
