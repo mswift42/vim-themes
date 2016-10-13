@@ -60,6 +60,10 @@ foggy-night:
 silkworm:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/silkworm-nvim.png)
 
+breezy-fall:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/breezy-fall-nvim.png)
+
+
 * * *
 
 ### License
