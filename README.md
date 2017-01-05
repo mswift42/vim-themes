@@ -63,7 +63,8 @@ silkworm:
 breezy-fall:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/breezy-fall-nvim.png)
 
-
+metalheart:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/metalheart-nvim.png)
 * * *
 
 ### License
