@@ -1,5 +1,5 @@
 " Vim color file
-" breezy-fall
+" Thursday
 " Created by martin haesler with ThemeCreator (https://github.com/mswift42/themecreator)
 
 hi clear
@@ -9,28 +9,28 @@ syntax reset
 endif
 
 set t_Co=256
-let g:colors_name = "breezy-fall"
+let g:colors_name = "Thursday"
 
 
 " Define reusable colorvariables.
-let s:bg="#f6f3cf"
-let s:fg="#78693c"
-let s:fg2="#83754c"
-let s:fg3="#8e815b"
-let s:fg4="#988d6b"
-let s:bg2="#e2e0be"
-let s:bg3="#cfccae"
-let s:bg4="#bbb99d"
-let s:keyword="#0073a3"
-let s:builtin="#3b61b1"
-let s:const= "#844c41"
-let s:comment="#906e86"
-let s:func="#a94142"
-let s:str="#994485"
-let s:type="#454b7a"
-let s:var="#922f8c"
-let s:warning="#ff1276"
-let s:warning2="#ff4d12"
+let s:bg="#f9fbfd"
+let s:fg="#2f2f2f"
+let s:fg2="#404040"
+let s:fg3="#505050"
+let s:fg4="#616161"
+let s:bg2="#e5e7e9"
+let s:bg3="#d1d3d5"
+let s:bg4="#bdbfc0"
+let s:keyword="#28728f"
+let s:builtin="#636792"
+let s:const= "#28766e"
+let s:comment=""
+let s:func="#935c54"
+let s:str="#8c5c79"
+let s:type="#56724b"
+let s:var="#7d6740"
+let s:warning="#fa0c0c"
+let s:warning2="#fa7b0c"
 
 exe 'hi Normal guifg='s:fg' guibg='s:bg 
 exe 'hi Cursor guifg='s:bg' guibg='s:fg 
