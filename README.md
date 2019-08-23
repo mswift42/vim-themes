@@ -65,6 +65,9 @@ breezy-fall:
 
 metalheart:
 ![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/metalheart-nvim.png)
+
+thursday:
+![Screenshot](https://github.com/mswift42/vim-themes/raw/master/screenshots/thursday-nvim.png)
 * * *
 
 ### License
